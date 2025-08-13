@@ -1,4 +1,3 @@
-# Bulan Boarding House Management System
 
 ## Installation
 
