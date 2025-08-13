@@ -4,7 +4,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Jaypee2705/boarding-house-management-system.git .
+git clone https://github.com/Zekken26/bh_management_system.git
 ```
 
 2. Create a Virtual Environment:
